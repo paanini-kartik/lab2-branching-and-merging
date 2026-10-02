@@ -1,4 +1,4 @@
-# Chocolate Raspberry Celebration Cake
+# Chocolate Raspberry Birthday Cake
 
 This recipe makes a three-layer celebration cake with a raspberry filling between each layer and chocolate frosting on the outside.
 
@@ -33,6 +33,8 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 - Fresh raspberries
 - A dusting of powdered sugar
+- Birthday candles
+- Rainbow sprinkles
 
 ## Instructions
 
